@@ -11,7 +11,7 @@
 
 ## About Me
 
-Enthusiastic and detail-oriented entry-level Data Analyst with skills in Python, SQL, Power BI, Tableau, and Excel. Looking to apply my knowledge in data analysis and visualization to help solve business problems and contribute to team success.
+Enthusiastic and detail-oriented Fresher Data Analyst with skills in Python, SQL, Power BI, Tableau, and Excel. Looking to apply my knowledge in data analysis and visualization to help solve business problems and contribute to team success.
 ---
 
 ## Skills
