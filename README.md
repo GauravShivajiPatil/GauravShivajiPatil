@@ -23,8 +23,8 @@ Enthusiastic and detail-oriented entry-level Data Analyst with skills in Python,
 ![Power BI](https://img.shields.io/badge/PowerBI-ED8B00?style=for-the-badge&logo=PowerBI&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Ms Excel](https://img.shields.io/badge/Excel-C71A36?style=for-the-badge&logo=apache-excel&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF5722?style=for-the-badge&logo=testng&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!--[TestNG](https://img.shields.io/badge/TestNG-FF5722?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
 <!--![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
