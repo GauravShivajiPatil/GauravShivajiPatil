@@ -45,6 +45,10 @@ A comprehensive Selenium Web Automation Test Suite for the OrangeHRM platform. T
 A mobile application automation project using Appium and Robot Framework. This suite automates regression tests for the Gmail mobile application.-->
 
 ---
+## Internship
+
+### [Prodigy_Infotech_Data_Science](https://github.com/GauravShivajiPatil/Prodigy_Internship_Data_Science)
+The Prodigy Data Science Internship offers a unique opportunity to dive into the world of data analytics and machine learning in a real-world environment. Over the course of a month, gaining hands-on experience in data preprocessing, exploratory data analysis, and predictive modeling.
 
 <!--## Experience
 
