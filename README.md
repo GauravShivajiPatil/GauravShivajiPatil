@@ -35,6 +35,8 @@
 
 ### [Hospitality Revenue Analytics](https://github.com/GauravShivajiPatil/PowerBI-Desktop-Dashboard-P1) 
 Developed key revenue metrics and an interactive dashboard for AtliQ Grands, a luxury hotel chain, to drive data-informed decisions. Analyzed historical data to provide actionable insights, enhancing market share and revenue strategies.
+### [Voice-Based Mood Recognition](https://github.com/GauravShivajiPatil/Voice_Based_Mood_Recognition)
+This project aims to recognize emotions from speech, including both recorded and live audio inputs. The system detects emotions such as happy, sad, angry, and neutral, while also converting audio to text and offering language translation and suggesting songs accordingly
 
 <!-- ### [Selenium Web Automation - OrangeHRM](https://github.com/SourabhKokitkar/Selenium-Web-Automation-Java)-->
 <!--![OrangeHRM](https://raw.githubusercontent.com/SourabhKokitkar/SourabhKokitkar/main/assets/orangehrm.png)
