@@ -38,7 +38,7 @@ Developed key revenue metrics and an interactive dashboard for AtliQ Grands, a l
 ### [Voice-Based Mood Recognition](https://github.com/GauravShivajiPatil/Voice_Based_Mood_Recognition)
 This project aims to recognize emotions from speech, including both recorded and live audio inputs. The system detects emotions such as happy, sad, angry, and neutral, while also converting audio to text and offering language translation and suggesting songs accordingly
 
-###[Electric Vehicle (EV) Adoption Trends Analysis](https://github.com/GauravShivajiPatil/Electric-Vehicle-EV-Adoption-Trends-Analysis)
+### [Electric Vehicle (EV) Adoption Trends Analysis](https://github.com/GauravShivajiPatil/Electric-Vehicle-EV-Adoption-Trends-Analysis)
 This project analyzes Electric Vehicle (EV) adoption trends using an interactive Tableau dashboard. It explores EV sales growth, charging infrastructure, regional adoption patterns, and the impact of government policies. The dashboard provides data-driven insights for stakeholders to understand market trends and future opportunities.
 
 
